@@ -1,0 +1,37 @@
+body{
+
+    border-color: black;
+    border-style: solid;
+    margin: 100px 100px 100px 100px;
+
+}
+
+section {
+    margin: 100px 100px 100px 100px;
+}
+
+hr {
+    margin-right: 200px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+    color: #2f9e44;
+}
+
+h4 {
+    font-size: 30px;
+    color: #1971c2;
+}
+
+p, li {
+    font-size: 30px;
+}
