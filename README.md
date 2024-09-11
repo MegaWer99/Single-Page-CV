@@ -1,1 +1,1 @@
-https://github.com/MegaWer99/Single-Page-CV
+https://roadmap.sh/projects/single-page-cv
